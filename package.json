@@ -1,0 +1,11 @@
+{
+  "name": "numerical-sort-module",
+  "version": "1.0.0",
+  "description": "Input numerical data and sort it accordingly",
+  "main": "stored-number.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
